@@ -11,5 +11,5 @@ write by dnvtmf
 
 # References
 - Mohammad Rastegari, Vicente Ordonez, Joseph Redmon, Ali Farhadi: XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks
-- Matthieu Courbariaux, Itay Hubara, Daniel Soudry, Ran El-Yaniv, Yoshua Bengio:XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks
+- Matthieu Courbariaux, Itay Hubara, Daniel Soudry, Ran El-Yaniv, Yoshua Bengio:Binarized Neural Networks: Training Neural Networks with Weights and Activations Constrained to +1 or 1
 
